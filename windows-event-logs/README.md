@@ -19,6 +19,5 @@ sudo ss -tnlp | grep 9997
 ### Result
 
 ```markdown
-### Result
-
 Successfully configured the Splunk Indexer to receive data on TCP port 9997. The environment is now ready for the installation and configuration of the Splunk Universal Forwarder on the Windows VM.
+```
