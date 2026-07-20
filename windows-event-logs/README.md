@@ -5,6 +5,12 @@
 ### Objective
 Configure the Splunk Indexer to receive log data from Splunk Universal Forwarders.
 
+### Environment
+Windows 10 pro
+Ubuntu Virtual machine
+Kali Virtual machine
+Splunk Enterprise
+
 ### Steps Performed
 1. Opened Splunk Web.
 2. Navigated to:
@@ -15,6 +21,8 @@ Configure the Splunk Indexer to receive log data from Splunk Universal Forwarder
 ```bash
 sudo ss -tnlp | grep 9997
 ```
+### Lab architecture
+
 
 ### Result
 
