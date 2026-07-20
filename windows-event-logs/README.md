@@ -6,10 +6,10 @@
 Configure the Splunk Indexer to receive log data from Splunk Universal Forwarders.
 
 ### Environment
-Windows 10 pro
-Ubuntu Virtual machine
-Kali Virtual machine
-Splunk Enterprise
+- Windows 10 pro
+- Ubuntu Virtual machine
+- Kali Virtual machine
+- Splunk Enterprise
 
 ### Steps Performed
 1. Opened Splunk Web.
