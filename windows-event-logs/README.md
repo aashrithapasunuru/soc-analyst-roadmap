@@ -22,7 +22,7 @@ Splunk Enterprise
 sudo ss -tnlp | grep 9997
 ```
 ### Lab architecture
-
+![Splunk Architecture](diagrams/splunk_architecture.png)
 
 ### Result
 
