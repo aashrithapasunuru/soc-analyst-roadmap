@@ -1,6 +1,6 @@
 # DAY-1
 
-## Practical 1 - Configure Splunk to Receive Logs
+## SIEM-Fundamentals
 
 ### Objective
 Configure the Splunk Indexer to receive log data from Splunk Universal Forwarders.
@@ -14,3 +14,10 @@ Configure the Splunk Indexer to receive log data from Splunk Universal Forwarder
 5. Verified that Splunk was listening on port 9997 using:
 ```bash
 sudo ss -tnlp | grep 9997
+
+### Result
+
+```markdown
+### Result
+
+Successfully configured the Splunk Indexer to receive data on TCP port 9997. The environment is now ready for the installation and configuration of the Splunk Universal Forwarder on the Windows VM.
