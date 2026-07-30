@@ -43,7 +43,7 @@ Each module includes:
 - [ ] 01 - Windows Event Logs
 - [ ] 02 - Splunk Fundamentals
 - [ ] 03 - Splunk Universal Forwarder
-- [ ] 04 - SPL Queries
+- [ ] 04 - SQL Queries
 - [ ] 05 - Windows Authentication
 - [ ] 06 - Networking Fundamentals
 - [ ] 07 - Wireshark
